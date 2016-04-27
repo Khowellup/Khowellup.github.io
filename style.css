@@ -1,0 +1,335 @@
+body {
+    margin-top: 25px;
+    font-size: 21px;
+    text-align: center;
+    background-image: url("Images/back1.jpg");
+
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+}
+
+.barmain:after {
+	content: "";
+	display: table;
+}
+
+.nav-menu {
+	position: relative;
+	display: inline-block;
+	right: 145px;
+}
+
+.nav-menu li {
+	display: inline;
+	list-style-type: none;
+}
+
+.sublist ul li:hover > ul {
+	display: inline-block;
+}
+
+ul.barmain {
+	list-style-type: none;
+	text-align: center;
+	background-color:rgba(0, 0, 0, 0.8);
+	width: 1110px;
+	margin: 0;
+	padding-top:;
+	padding-left: 3px;
+	padding-right: 9px;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	position: relative;
+	left: 3cm;
+	top: 2cm;
+}
+
+ul.barmain li {
+	display: inline-block;
+	text-align: center;
+}
+
+.sublist {
+	width: 271px;
+	position: relative;
+	top: 75px;
+	right: 59px;
+	display: none;
+	background: #ccc;
+}
+
+.sublist:hover {
+
+}
+
+#item1 {
+	background-color:rgba(48, 48, 48, 0.5);
+	position: relative;
+	/*right: 11.5cm;*/
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	margin: 0;
+	left: 5px;
+	top: 0px;
+}
+#item1:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item2 {
+	background-color:rgba(48, 48, 48, 0.5);
+	position: relative;
+	right: -5px;
+	padding-left: 98px;
+	padding-right: 98px;
+	padding-top: 1px;
+	padding-bottom: 5px;
+}
+
+#item2:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item3 {
+	background-color:rgba(48, 48, 48, 0.5);
+	position: relative;
+	right: -5px;
+	padding-left: 109px;
+	padding-right: 109px;
+	padding-top: 1px;
+	padding-bottom: 5px
+}
+
+#item3:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item4 {
+	background-color:rgba(48, 48, 48, 0.5);
+	position: relative;
+	right: -5px;
+	padding-left: 116px;
+	padding-right: 116px;
+	padding-top: 1px;
+	padding-bottom: 5px
+}
+
+#item4:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item5 {
+	background-color:rgba(48, 48, 48, 0.5);
+	padding-left: 10px;
+	padding-right: 55px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	position: relative;
+	top: -15px;
+}
+
+#item6 {
+	background-color:rgba(48, 48, 48, 0.5);
+	padding-left: 10px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	position: relative;
+	top: 5px;
+}
+
+#item7 {
+	background-color:rgba(48, 48, 48, 0.5);
+	padding-left: 10px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	position: relative;
+	top: 25px;
+}
+
+#item8 {
+	background-color:rgba(48, 48, 48, 0.5);
+	padding-left: 10px;
+	padding-right: 88px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	position: relative;
+	top: 45px;
+}
+
+h2.main {
+	color: #fff;
+	padding-top: 22px;
+	margin-left: 3cm;
+	word-spacing: 50px;
+	font-size: 32px;
+	font-family: 'Agency FB', arial;
+	position: absolute;
+    left: 24px;
+    top: 55px;
+    z-index: 1;
+}
+
+
+
+body div {
+
+	color: #000;
+}
+
+#mid {
+	position: relative;
+	top: 350px;
+	left: 35px;
+	width: 500px
+}
+
+
+#nav2 {
+	width: 500px;
+}
+
+nav ul li {
+	color: #fff;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: 'Agency FB', arial;
+	list-style-type: none;
+}
+
+nav ul li a:link, nav ul li a:active,
+nav ul li a:hover, nav ul li a:visited{
+
+text-decoration: none;
+}
+
+.IMP {
+	color:#FF00FF
+}
+
+.imp {
+	color: #bf00ff;
+}
+
+#item5:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item6:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item7:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+#item8:hover {
+	background-color: rgba(192,192,192, 0.8);
+	font-weight: bold;
+}
+
+div.sbox {
+	padding-bottom: 5px;
+	width: 500px;
+	height: 100px;
+}
+
+h3 div {
+	color: #fff;
+	font-size: 26px;
+	font-family: 'Agency FB', arial;
+	padding-bottom: 30px;
+	padding-right: 20px;
+	padding-top: 5px;
+}
+
+#box1 {
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Agency FB', arial;
+	text-align: right;
+}
+
+.box {
+	width: 500px;
+	left: 51%;
+	position: relative;
+	top: -20px;
+}
+
+
+#superbox {
+	width: 800px;
+	left: 30%;
+	position: absolute;
+	top: 55%;
+}
+
+
+div.box2 {
+
+}
+
+/*span.subject {
+	
+} */
+
+.subject {
+	background-color:rgba(0, 0, 0, 0.8);
+	width: 145px;
+	top: -58px;
+	left: -59px;
+	position: relative;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 1px;
+	height: 15px;
+	color:#FF00FF;
+	font-size: 22px;
+}
+
+p.mainbox {
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Agency FB', arial;
+	padding: 50px;
+	margin: 10px;
+	text-align: left;
+	height: 100px;
+}
+
+p {
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Agency FB', arial;
+}
+
+footer {
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Agency FB', arial;
+	position: absolute;
+	top: 97%;
+}
